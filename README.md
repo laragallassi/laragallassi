@@ -1,5 +1,10 @@
 ## Hello there 👋
 
+Olá, meu nome é Lara, sou analista de dados jr. com mais de 10 anos de experiência em Tecnologia. Atuo na Remay desenvolvendo dashboards e relatórios interativos com Power BI, DAX e Power Query. Em busca das certificações Microsoft PL-300 e AZ-900 e pós-graduação na área de ddos. Focada em transformar dados em insights estratégicos e impulsionar decisões de negócios por meio de BI e análise de dados.
+
+contato: 
+laragallassioliveira@hotmail.com
+
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/laragallassi/laragallassi/assets/18129465/dd7592f2-7d6c-4bb8-8c24-34d04cb5559b" width="40" height="40"/><img loading="lazy" src="https://github.com/laragallassi/laragallassi/assets/18129465/40abccfa-f0ad-4497-92a5-2031d2b3c1e0" width="40" height="40"/>
 
